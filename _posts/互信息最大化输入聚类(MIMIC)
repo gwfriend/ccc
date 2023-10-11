@@ -1,2 +1,15 @@
+---
+layout:     post
+title:      MIMIC
+subtitle:   互信息最大化输入聚类(MIMIC)
+date:       2023-10-11
+author:     Fred
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - Deep learning
+    - MIMIC
+    - 函数式编程
+    - 开源框架
 MIMIC 算法
 MIMIC 算法的基本思想是，在具有相似特征的数据点之间存在较高的互信息。因此，它通过最大化数据点之间的互信息来聚类数据。
